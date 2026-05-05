@@ -1,0 +1,9 @@
+{
+  "name": "reborn-backend",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
